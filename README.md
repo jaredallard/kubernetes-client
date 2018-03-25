@@ -107,6 +107,8 @@ specifications:
   `.pods`): [convenience-properties.js](./examples/convenience-properties.js)
 * Extend the Kubernetes API and a `client` with a
   CustomerResourceDefinition: [using-crds.js](./examples/using-crds.js)
+* Use watch enpodints to get a JSON stream of Deployment events:
+  [watch.js](./examples/watch.js)
 
 ## Contributing
 
